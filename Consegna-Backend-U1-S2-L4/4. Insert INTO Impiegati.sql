@@ -1,0 +1,17 @@
+INSERT INTO Impiegati (Cognome, Nome,  Codice_Fiscale, Eta, Reddito_Mensile, Detrazione_Fiscale) VALUES
+('Rossi', 'Mario',  'RSSMRA01A01H501K', 35, 1500.00, 1 ),
+('Bianchi', 'Luigi',  'BNCGLG02B02D612J', 28, 900.00, 0 ),
+('Verdi', 'Giuseppe',  'VRDGPV03C03F723L', 40, 2000.00, 1 ),
+('Ferrari', 'Carla',  'FRRCRL04D04G834M', 32, 1200.00, 1 ),
+('Russo', 'Paolo',  'RSSPLO05E05H945N', 45, 1800.00, 1),
+('Gallo', 'Giovanna',  'GLLGNN06F06I056O', 38, 1700.00, 1 ),
+('Esposito', 'Antonio',  'SPTNTN07G07L167P', 31, 1100.00, 0 ),
+('Martini', 'Maria',  'MRTMRA08H08M278Q', 29, 950.00, 0 ),
+('Conti', 'Giorgio',  'CNTGGO09I09P389R', 33, 1300.00, 1 ),
+('Costa', 'Anna',  'CSTNNA10L10S490S', 42, 2200.00, 1 ),
+('Ferraro', 'Lorenzo', 'FRRLRZ11M11T501T', 26, 800.00, 0 ),
+('Galli', 'Francesca', 'GLLFNC12N12U612U', 37, 1600.00, 1 ),
+('Rinaldi', 'Roberto',  'RNLRRT13O13V723V', 39, 1900.00, 1 ),
+('Lombardi', 'Laura',  'LMBLRA14P14Z834Z', 30, 1000.00, 0 ),
+('Moretti', 'Luca',  'MRTLCU15Q15A945A', 34, 1400.00, 0 ),
+('Barbieri', 'Elena',  'BRBLNA16R16B056B', 27, 850.00, 1 );
